@@ -1,2 +1,3 @@
 ﻿  Main.cpp
-  GameGuessNumber_cpp.vcxproj -> C:\Project_VS\GameGuessNumber_cpp\Debug\GameGuessNumber_cpp.exe
+C:\Projects VS\GameGuessNumber_cpp\GameGuessNumber_cpp\Main.cpp(56,21): warning C4018: <: несоответствие типов со знаком и без знака
+  GameGuessNumber_cpp.vcxproj -> C:\Projects VS\GameGuessNumber_cpp\Debug\GameGuessNumber_cpp.exe
