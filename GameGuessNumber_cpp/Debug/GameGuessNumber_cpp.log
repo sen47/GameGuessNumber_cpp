@@ -1,3 +1,4 @@
 ﻿  Main.cpp
-C:\Projects VS\GameGuessNumber_cpp\GameGuessNumber_cpp\Main.cpp(56,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Projects VS\GameGuessNumber_cpp\GameGuessNumber_cpp\Main.cpp(43,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Projects VS\GameGuessNumber_cpp\GameGuessNumber_cpp\Main.cpp(108,21): warning C4018: <: несоответствие типов со знаком и без знака
   GameGuessNumber_cpp.vcxproj -> C:\Projects VS\GameGuessNumber_cpp\Debug\GameGuessNumber_cpp.exe
